@@ -1,4 +1,4 @@
-class MyPersonalInfo {
+public class MyPersonalInfo {
   public static void main(String[] args) {
     String myName = "Tiago Celestino";
     int age = 29;
